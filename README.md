@@ -19,7 +19,7 @@ Please consider citing this project in your publications if it helps your resear
 
 ## Installation
 
-- Prerequisites: [PyTorch 1.2](https://github.com/pytorch/pytorch/tree/v1.2.0), [pandas](https://github.com/pandas-dev/pandas)
+- Prerequisites: [PyTorch v1.2.0](https://github.com/pytorch/pytorch/tree/v1.2.0), [pandas](https://github.com/pandas-dev/pandas)
 - For others, please refer to [INSTALL.md](https://github.com/facebookresearch/maskrcnn-benchmark/blob/master/INSTALL.md) of the official [maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark) repo.
 - `python setup.py build develop`
 
@@ -43,7 +43,7 @@ ln -s train /path_to_openimages_images/train
 # https://datasets.figure-eight.com/figure_eight_datasets/open-images/zip_files_copy/validation.zip
 ln -s val_600 /path_to_openimages_images/validation
 
-# Visual Genome (Version 1.2) images (108,079 with part 1 & 2 combined)
+# Visual Genome (Version 1.2) images (108,079 images with part 1 & 2 combined)
 # https://cs.stanford.edu/people/rak248/VG_100K_2/images.zip
 # https://cs.stanford.edu/people/rak248/VG_100K_2/images2.zip
 ln -s VG_100K /path_to_visualgenome_images
