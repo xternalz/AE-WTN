@@ -57,6 +57,9 @@ cd ../..
 
 By default, 4 GPU cards are utilized for training and evaluation.
 
+Training checkpoints are stored in the same directory. Evaluation results are stored in the `inference` subdirectory.
+
+
 ```bash
 cd experiment
 
@@ -66,6 +69,8 @@ sh train.sh
 # evaluate on the 3 evaluation datasets
 sh test.sh
 ```
+
+**Pretrained model**: [download link](https://entuedu-my.sharepoint.com/:u:/g/personal/jkuen001_e_ntu_edu_sg/ESgnD2nsp9hPnlUJ38-PzHwBjkfxyoLGmWEdZtT2Wwbe2w?e=Jh7G8C) (place it in the same directory before running evaluation)
 
 
 
