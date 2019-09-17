@@ -4,7 +4,7 @@ This is the code to replicate the AE-WTN experiments in the [**Scaling Object De
 
 
 
-Please consider citing this project in your publications if it helps your research.
+Please consider citing this paper in your publications if it helps your research.
 
 ```
 @inproceedings{kuen2019scaling,
