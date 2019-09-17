@@ -1,6 +1,6 @@
 # Autoencoder Weight Transfer Network (AE-WTN)
 
-This is the code to replicate the AE-WTN experiments in the **Scaling Object Detection by Transferring Classification Weights** paper accepted as an oral paper at ICCV 2019.
+This is the code to replicate the AE-WTN experiments in the [**Scaling Object Detection by Transferring Classification Weights**](https://arxiv.org/abs/1909.06804) paper accepted as an oral paper at ICCV 2019.
 
 
 
